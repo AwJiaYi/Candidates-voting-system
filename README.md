@@ -1,4 +1,4 @@
-1.	 git clone https://github.com/AwJiaYi/Online-voting-system
+1.	 git clone https://github.com/AwJiaYi/Candidates-voting-system
 2.	composer update (if failed to find the required file)
 3.	go to laragon to create a database
 4.	DB_DATABASE=“your database name" (change .env file in your visual studio code)
